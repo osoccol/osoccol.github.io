@@ -1,0 +1,30 @@
+{
+    "Header": {
+        "Home": "Home",
+        "Gifts": "Gifts",
+        "Transfer": "Transfer",
+        "English": "English",
+        "French": "French",
+        "Spanish": "Spanish"
+    },
+    "Home": {
+        "Message" : "Wedding gifts list",
+        "ConfirmPresence": "Confirm your venue !",
+        "Greetings": "Whatever your choose, we are infinitely grateful for your generosity and love.\nWe are very excited to see you and share our special day with you.\n\nRemember to RSVP at the following link.\n\nSee you soon!"
+    },
+    "Gifts": {
+        "Message" : "We are planning to move to France in 2024.\nWe selected two stores and suggestions for each country.\n\nThe IKEA purchases will be sent directly to France.\nThe items bought in LIVERPOOL will be delivered in México.",
+        "Choose": ""
+    },
+    "Account": {
+        "Message": "Another option, perhaps more comfortable for some, is to transfer money to a bank account that we decided to open as savings for the arrival in our new home.\nBelow you can find all the account information.",
+        "Number": "Account number",
+        "Key": "Key (CLABE)",
+        "Owner": "Owner",
+        "Address": "Address",
+        "Phone": "Phone",
+        "Bank": "Bank",
+        "BIC": "BIC",
+        "BankKey": "Branch"
+    }
+}

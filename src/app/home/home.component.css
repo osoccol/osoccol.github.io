@@ -1,0 +1,65 @@
+.home-message {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    max-width: 600px;
+    min-height: 300px;
+    margin: 6rem 0;
+}
+
+.names {
+    font-size: 4rem;
+}
+
+.home-image img {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    /* animation: translate-right 2s ease-in-out infinite; */
+}
+
+.home-choice-item {
+    padding: 15px;
+    text-align: center;
+}
+
+.home-choice-item a {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 200px;
+    box-shadow: 0 0 6px lightgray;
+    background-color: white;
+}
+
+.home-choice-item a img {
+    height: 130px;
+}
+
+.home-greetings {
+    white-space: pre-wrap;
+    margin: 20px 0 0 0;
+}
+
+@media (max-width: 992px) {
+    .home-image {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .home-message {
+        font-size: x-large;
+        margin: 1rem 0;
+    }
+
+    .names {
+        font-size: xx-large;
+    }
+}
+

@@ -1,0 +1,24 @@
+.savings-img {
+    width: 100%;
+}
+
+.message {
+    white-space: pre-wrap;
+    text-align: start;
+    font-size: x-large;
+}
+
+.row-lab {
+    margin-bottom: 15px;
+}
+
+.lab {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+@media (max-width: 768px) {
+    .message {
+        font-size: medium;
+    }
+}

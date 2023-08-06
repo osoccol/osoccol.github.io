@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/font/Montserrat-Regular.ttf');
+}
+
+html,
+body {
+    height: 100%;
+    background-color: azure;
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+.primary, .primary:visited {
+    color: darkmagenta;
+}
+
+.btn-primary {
+    background-color: darkmagenta !important;
+    border: none;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn-primary:focus {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.btn-primary:hover, .btn:hover {
+    scale: 1.1;
+    transition: 0.2s ease-in-out;
+}

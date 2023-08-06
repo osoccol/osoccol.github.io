@@ -1,0 +1,30 @@
+{
+    "Header": {
+        "Home": "Accueil",
+        "Gifts": "Cadeaux",
+        "Transfer": "Virement",
+        "English": "Anglais",
+        "French": "Français",
+        "Spanish": "Espagnol"
+    },
+    "Home": {
+        "Message" : "Bienvenue sur la liste de mariage de",
+        "ConfirmPresence": "Confirmer ma présence !",
+        "Greetings": "Quel que soit votre choix, nous vous sommes infiniment reconnaissants pour votre générosité et votre amour.\nNous sommes très heureux de vous voir et de partager notre journée spéciale avec vous.\n\nN'oubliez pas de confirmer votre présence sur le lien suivant (rubrique RSVP).\n\nÀ bientôt !"
+    },
+    "Gifts": {
+        "Message" : "Nous prévoyons de nous installer en France en 2024. Nous avons donc sélectionné deux magasins pour l'achat de cadeaux utiles dans les deux pays.\nPour éviter de tout transporter durant le déménagement, les cadeaux achetés sur IKEA seront directement envoyés en France, tandis que les achats de LIVERPOOL seront utilisés le reste de notre séjour à México.",
+        "Choose": ""
+    },
+    "Account": {
+        "Message": "Une autre option, peut-être plus confortable pour certains, consiste à transférer de l'argent sur un compte bancaire que nous avons décidé d'ouvrir comme épargne pour l'arrivée dans notre nouvelle maison.\nVous trouverez ci-dessous tous les détails du compte.",
+        "Number": "Numéro de compte",
+        "Key": "CLEF (CLABE)",
+        "Owner": "Titulaire",
+        "Address": "Domicile",
+        "Phone": "Téléphone",
+        "Bank": "Banque",
+        "BIC": "BIC",
+        "BankKey": "Antenne"
+    }
+}

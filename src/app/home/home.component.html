@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="home-message d-flex flex-column" [ngClass]="{'flex-column-reverse' : lang == 'en'}">
+        <span>{{message|translate}}</span>
+        <span class="names">Natalia & Oscar</span>
+    </div>
+
+    <div class="home-image">
+        <img src="../../assets/img/O&N.png" alt="" width="300px">
+    </div>
+
+    <div class="home-choice">
+        <div class="row">
+            <div class="col-12 col-sm-6 home-choice-item">
+                <a routerLink="/gifts" class="primary">
+                    <img src="https://video-public.canva.com/VADls_-oY0k/videos/5c43265216.gif" alt="">
+                    {{'Header.Gifts'|translate}}
+
+                </a>
+            </div>
+            <div class="col-12 col-sm-6 home-choice-item">
+                <a routerLink="/transfer" class="primary">
+                    <img src="https://video-public.canva.com/VADhwT_gEx8/videos/89ab611876.gif" alt="">
+                    {{'Header.Transfer'|translate}}
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="home-greetings">{{'Home.Greetings'|translate}}</div>
+
+
+</div>
+<!-- 
+<img src="https://video-public.canva.com/VADhwT_gEx8/videos/89ab611876.gif" alt="money" width="100">
+<img src="https://video-public.canva.com/VAFBm2qH9y8/v/269621d84d.gif" alt="plane" width="100"> 
+<img src="https://video-public.canva.com/VADhwUuq3-w/videos/cc961caab7.gif" alt="savings" width="100">
+<img src="https://video-public.canva.com/VADls_-oY0k/videos/5c43265216.gif" alt="gift" width="100"> -->

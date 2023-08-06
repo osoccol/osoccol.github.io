@@ -10,11 +10,14 @@
     "Home": {
         "Message" : "Bienvenidos a la mesa de regalos de",
         "ConfirmPresence": "¡ Confirma tu asistencia ! ",
+        "Welcome": "Estamos en preparación de la fiesta, listos para recibirlos y celebrar nuestra unión. Muchos de ustedes nos han pedido la lista, así que también pueden adelantar los regalos si es que desean participar.",
         "Greetings": "Sea cual sea tu elección, agradecemos infinitamente tu generosidad y amor.\nEstamos muy emocionados de verte y compartir contigo nuestro día especial.\n\nRecuerda confirmar tu asistencia en el siguiente link.\n\n¡Nos vemos pronto!"
     },
     "Gifts": {
         "Message" : "Tenemos planes de mudarnos a Francia en 2024, por lo tanto, hemos seleccionado dos tiendas para comprar regalos que nos seran utiles en ambos paises.\nSin embargo, para evitar tener que transportar todo, los regalos de IKEA seran enviado directamente a Francia, mientras que los de LIVERPOOL los utilizaremos durante el tiempo restante de nuestra estancia en México.",
-        "Choose": ""
+        "Choose": "",
+        "InfoIKEAOpen": "Abrir la imagen en nueva pestaña",
+        "InfoIKEA": "*Si eliges un regalo del sitio de IKEA, asegúrate de:\n- navegar por el sitio en francés (https://www.ikea.com/fr/fr/)\n- enviarlo al centro de recolección más cercano (en París, cerca de Stalingrad/Jaurès, vea la imagen siguiente) donde será recogido por la familia del novio (a nombre de SOCCOL/DRUET)\n- avisenos al realizar una compra para que podamos actualizar la lista"
     },
     "Account": {
         "Message": "Otra opción, quizás más cómoda para algunos, es la de transferir dinero en una cuenta bancaria que decidimos abrir como ahorro para la llegada a nuestro nuevo hogar.\nAbajo podrás encontrar todos los datos de la cuenta.",

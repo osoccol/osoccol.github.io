@@ -10,11 +10,14 @@
     "Home": {
         "Message" : "Wedding gifts list",
         "ConfirmPresence": "Confirm your venue !",
+        "Welcome": "We are preparing for our wedding, ready to welcome you to celebrate our union. Many of you have asked us for the gifts list, so you too can get ahead if you wish to participate.",
         "Greetings": "Whatever your choose, we are infinitely grateful for your generosity and love.\nWe are very excited to see you and share our special day with you.\n\nRemember to RSVP at the following link.\n\nSee you soon!"
     },
     "Gifts": {
         "Message" : "We are planning to move to France in 2024.\nWe selected two stores and suggestions for each country.\n\nThe IKEA purchases will be sent directly to France.\nThe items bought in LIVERPOOL will be delivered in México.",
-        "Choose": ""
+        "Choose": "",
+        "InfoIKEAOpen": "Open image in new tab",
+        "InfoIKEA": "*If you choose a gift from the IKEA site, be sure to:\n- browse the French site (https://www.ikea.com/fr/fr/)\n- send it to a collect point (in Paris, near Stalingrad or Jaurès subway station, see image below) where it will be picked up by the groom's family (therefore in the name of SOCCOL/DRUET)\n- let us know when making a purchase so that we can update the list"
     },
     "Account": {
         "Message": "Another option, perhaps more comfortable for some, is to transfer money to a bank account that we decided to open as savings for the arrival in our new home.\nBelow you can find all the account information.",
